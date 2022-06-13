@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on Ugam Solution
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working at Ugam Solution.
+- 🌱 I’m currently learning React, Core Java..
 - 👯 I’m looking to collaborate on Tech Communities 
 - 💬 Ask me about JavaScript or any Tech related things.
 - 📫 How to reach me: [Twitter - RizonKumar](https://twitter.com/RizonKumar) , 
