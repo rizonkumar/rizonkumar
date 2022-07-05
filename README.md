@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I am currently working at Ugam Solution.
+- 🔭 I am currently working at Merkle.
 - 🌱 I am currently learning React, Core Java.
 - 👯 I collaborate on Tech Communities in Discord. 
 - 💬 Ask me about JavaScript or any Tech related things.
