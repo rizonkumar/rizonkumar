@@ -4,7 +4,7 @@
 
 
 - 🔭 I am currently working at Merkle as SFCC Backend Developer and React Frontend Developer .
-- 🌱 I am currently learning React, Core Java.
+- 🌱 I am currently learning React, Express.
 - 👯 I collaborate on Tech Communities in Discord. 
 - 💬 Ask me about JavaScript, React or any Tech related things.
 - 📫 How to reach me: [Twitter - RizonKumar](https://twitter.com/RizonKumar) , 
