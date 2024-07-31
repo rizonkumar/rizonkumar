@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I am currently working at Merkle as SFCC Backend Developer.
+- 🔭 I am currently working at Merkle as SFCC Backend Developer and React Frontend Developer .
 - 🌱 I am currently learning React, Core Java.
 - 👯 I collaborate on Tech Communities in Discord. 
 - 💬 Ask me about JavaScript, React or any Tech related things.
