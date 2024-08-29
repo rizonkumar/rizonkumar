@@ -9,7 +9,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rizonkumarrahi/practice)
 
 - 🔭 I'm currently working at Merkle as SFCC Backend Developer and React Frontend Developer
-- 🌱 I'm currently learning React, Express, and advanced SFCC techniques
+- 🌱 I'm currently learning Next JS, Three JS & Hono.
 - 👯 I collaborate on Tech Communities in Discord
 - 💬 Ask me about JavaScript, React, SFCC, or any Tech related things
 - 📫 How to reach me: Check the badges above!
