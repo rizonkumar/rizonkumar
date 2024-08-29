@@ -52,6 +52,3 @@ Feel free to reach out for collaborations or just a friendly chat:
 
 ⭐️ From [rizonkumar](https://github.com/rizonkumar)
 
-## 🌟 Featured Projects
-
-[Add 2-3 of your best projects here with brief descriptions and links]
