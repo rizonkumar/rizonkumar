@@ -39,7 +39,7 @@
 - 📫 How to reach me: Check the badges above!
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a Gamer and always up for a coding challenge!
-- 🌐 Check out my portfolio: [Rizon's Portfolio](https://rizon-portfolio.netlify.app/)
+- 🌐 Check out my portfolio: [Rizon's Portfolio](https://rizonkumarrahi.in/)
 
 ---
 
