@@ -63,9 +63,6 @@
 - 🌟 Ranked 96/22271 in LeetCode Weekly Contest 294
 - 💻 Solved 700+ problems on LeetCode, GFG, and CodeStudio
 - 🏅 GFG Rank 1 in SRM Institute of Science and Technology
-- 🚀 Increased user engagement by 40% through interactive component development
-- 📉 Reduced cart abandonment by 25% with efficient state management in React
-- ⚡ Improved initial load times by 45% through React 16 to 18 migration
 
 ---
 
