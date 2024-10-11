@@ -22,6 +22,7 @@
   <a href="https://www.instagram.com/rizon__kumar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://leetcode.com/rizon__kumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://auth.geeksforgeeks.org/user/rizonkumarrahi/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://rizonkumarrahi.in/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <div align="center">
@@ -42,6 +43,7 @@
 - 🌐 Check out my portfolio: [Rizon's Portfolio](https://rizonkumarrahi.in/)
 
 ---
+
 ### :hammer_and_wrench: Skills and Tools:
 
 #### Languages and Frameworks:
@@ -78,6 +80,7 @@
 - Prisma
 - Hono JS
 - Zod
+
 ---
 
 ### :trophy: Achievements :
@@ -90,11 +93,11 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizonkumar&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizonkumar&theme=radical&background=0D1117)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizonkumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizonkumar&layout=compact&theme=radical&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-![Rizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizonkumar&&show_icons=true&title_color=ffffff&icon_color=FF6F61&text_color=FF6F61&bg_color=34568B)
+![Rizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizonkumar&show_icons=true&theme=radical&bg_color=0D1117)
 
 ---
 
@@ -103,10 +106,10 @@
 Feel free to reach out for collaborations or just a friendly chat:
 <div id="badges">
   <a href="https://www.linkedin.com/in/rizonkumarrahi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/RizonKumar">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/rizon__kumar/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
