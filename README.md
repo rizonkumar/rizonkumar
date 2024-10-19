@@ -33,8 +33,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I'm currently working at Merkle as SFCC Backend Developer and React Frontend Developer
-- 🌱 I'm currently learning Next JS, Three JS & Hono
+- 🔭 I'm currently working at Merkle Full Stack Developer.
+- 🌱 I'm currently learning Next JS, Three JS & Hono.
 - 👯 I collaborate on Tech Communities in Discord
 - 💬 Ask me about JavaScript, React, SFCC, or any Tech related things
 - 📫 How to reach me: Check the badges above!
