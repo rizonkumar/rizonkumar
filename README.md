@@ -64,19 +64,3 @@
 </div>
 
 <br/>
-
-### 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizonkumar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rizonkumar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-
-<div align="center" style="margin-top: -30px;">
-  <img src="https://komarev.com/ghpvc/?username=rizonkumar&style=flat-square&color=blue" alt="Profile views"/>
-</div>
