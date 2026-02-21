@@ -42,7 +42,7 @@
 ### 🚀 About Me
 
 - 🔭 **Current Project:** Working on scalable applications at **P-41**.
-- 🌱 **Exploring:** Next.js, Three.js, and Hono (Backend).
+- 🌱 **Exploring:** Next.js, Three.js, and Nest (Backend).
 - 💬 **Ask Me About:** React, System Design, SFCC, and JavaScript.
 - ⚡ **Fun Fact:** I am a ranked competitive programmer and a gamer at heart.
 
